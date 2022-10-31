@@ -25,6 +25,7 @@ const styles = StyleSheet.create({
     height:4,
     backgroundColor:'grey',
     alignSelf:'center',
+    marginVertical:15,//опустила линию на модалку
   },
 })
 
