@@ -97,7 +97,7 @@ const styles = StyleSheet.create({
   },
 });
 
-export default BottomSheet
+export default BottomSheet;
 
 
 
